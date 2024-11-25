@@ -1,8 +1,8 @@
-package exerciciosJava.becrownd;
+package exerciciosJava.becrownd.exercicio1;
 
 import java.util.Scanner;
 
-public class Main {
+public class exercicio1 {
     public static void main(String[] args) {
         Scanner l = new Scanner(System.in);
         double n1 = l.nextDouble();
@@ -18,7 +18,7 @@ public class Main {
         double somaNotas = notaCompeso1 + notaCompeso2 + notaCompeso3 + notaCompeso4;
         double totalPesos = 10;
 
-        //soluão dada pelo chat para imprimir a media como 4.8 e não como 4.9
+
         double resultado = Math.round((somaNotas/totalPesos)*10)/10.0;
 
         if (resultado >= 7){
