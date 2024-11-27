@@ -2,7 +2,7 @@ package exerciciosJava.becrownd.exercicio1;
 
 import java.util.Scanner;
 
-public class exercicio1 {
+public class Exercicio1 {
     public static void main(String[] args) {
         Scanner l = new Scanner(System.in);
         double n1 = l.nextDouble();
