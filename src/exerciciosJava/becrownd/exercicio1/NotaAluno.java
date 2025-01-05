@@ -2,7 +2,7 @@ package exerciciosJava.becrownd.exercicio1;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class NotaAluno {
     public static void main(String[] args) {
         Scanner l = new Scanner(System.in);
         double n1 = l.nextDouble();
@@ -19,7 +19,7 @@ public class Exercicio1 {
         double totalPesos = 10;
 
 
-        double resultado = Math.round((somaNotas/totalPesos)*10)/10.0;
+        double resultado = somaNotas/totalPesos;
 
         if (resultado >= 7){
             System.out.printf("Media: %.1f%n", resultado);
