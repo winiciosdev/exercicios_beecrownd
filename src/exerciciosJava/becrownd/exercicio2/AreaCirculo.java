@@ -1,7 +1,7 @@
 package exerciciosJava.becrownd.exercicio2;
 import  java.util.Scanner;
 
-public class Exercicio2 {
+public class AreaCirculo {
     public static void main(String[] args) {
 
         //Calcular a área de um circulo

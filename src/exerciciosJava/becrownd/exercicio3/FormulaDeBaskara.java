@@ -2,7 +2,7 @@ package exerciciosJava.becrownd.exercicio3;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class FormulaDeBaskara {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);

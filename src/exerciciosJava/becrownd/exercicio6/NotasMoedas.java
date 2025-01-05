@@ -2,7 +2,7 @@ package exerciciosJava.becrownd.exercicio6;
 
 import java.util.Scanner;
 
-public class Exercicio6 {
+public class NotasMoedas {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class Exercicio6 {
         System.out.println("MOEDAS:");
         for (int moeda : moedas){
             int quantidade = centavos / moeda;
-            System.out.printf("%d moeda(s) d R$ %.2f\n", quantidade, moeda/ 100.0);
+            System.out.printf("%d moeda(s) de R$ %.2f\n", quantidade, moeda/ 100.0);
             centavos %= moeda;
         }
     }
