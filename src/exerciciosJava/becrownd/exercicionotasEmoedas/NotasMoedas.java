@@ -1,4 +1,4 @@
-package exerciciosJava.becrownd.exercicio6;
+package exerciciosJava.becrownd.exercicionotasEmoedas;
 
 import java.util.Scanner;
 

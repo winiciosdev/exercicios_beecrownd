@@ -1,4 +1,4 @@
-package exerciciosJava.becrownd.exercicio8;
+package exerciciosJava.becrownd.verificaDDD;
 
 import java.util.Scanner;
 

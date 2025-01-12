@@ -1,4 +1,4 @@
-package exerciciosJava.becrownd.exercicio5;
+package exerciciosJava.becrownd.exerciciointervalosDenumeros;
 import java.util.Scanner;
 
 public class IntervaloDeNumeros {
