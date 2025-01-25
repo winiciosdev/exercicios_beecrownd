@@ -1,4 +1,4 @@
-package exerciciosJava.becrownd.exercicio2;
+package exerciciosJava.becrownd.exercicioareacirculo;
 import  java.util.Scanner;
 
 public class AreaCirculo {
